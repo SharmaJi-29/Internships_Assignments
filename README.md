@@ -10,23 +10,23 @@ This repository named **Internship_Assignment** contains all the assignments com
 The repository is organized as follows:
 
 - **CompanyName_Assignment** : A folder for each company's assignment.
-- **Code/**: Source code or scripts developed for the assignment.
-- **Docs/**: Any supporting documents, reports, or analysis.
-- **Data/**: Sample datasets or resources (if applicable).
+- **Code/** : Source code or scripts developed for the assignment.
+- **Docs/** : Any supporting documents, reports, or analysis.
+- **Data/** : Sample datasets or resources (if applicable).
 
 ## Purpose
 
-Document and showcase my work for various internship assignments.
-Keep all projects well-organized for easy reference and review.
+- Document and showcase my work for various internship assignments.
+- Keep all projects well-organized for easy reference and review.
 
 ## Tools & Technologies
 
 The assignments may involve different tools and technologies, such as:
 
-Programming Languages: Python, Java, etc.
-Frameworks: Django, Flask, etc.
-Libraries: Pandas, NumPy, Matplotlib, etc.
-Others: Machine Learning models, APIs, etc.
+- **Programming Languages** : Python, C++, etc.
+- **Frameworks** : Django, etc.
+- **Libraries** : Pandas, NumPy, Matplotlib, etc.
+- **Others** : Machine Learning models, APIs, etc.
 
 ## Disclaimer
 
